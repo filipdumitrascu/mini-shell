@@ -1,5 +1,7 @@
 # Minishell
 
+#### Contributor: Dumitrascu Filip-Teodor
+
 ## Objectives
 
 - Learn how shells create new child processes and connect the I/O to the terminal.
